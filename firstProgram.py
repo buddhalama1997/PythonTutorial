@@ -15,3 +15,5 @@ print('The length of your name is:')
 
 # print length
 print(len(myName))
+
+print('The length of your name is '+ str(len(myName)))
